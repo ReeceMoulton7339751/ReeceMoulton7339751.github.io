@@ -56,9 +56,9 @@ createCollectable('grace',400,360)
 
     
     // TODO 4 - Create Cannons
-createCannon("top",550,1000)
+createCannon("left",460,1000)
 createCannon('bottom',1200,900)
-createCannon('top',800,1000)
+createCannon('top',800,800)
     
     
     //////////////////////////////////
